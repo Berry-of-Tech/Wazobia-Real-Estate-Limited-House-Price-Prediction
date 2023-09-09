@@ -1,7 +1,7 @@
 # Wazobia-Real-Estate-Limited-House-Price-Prediction
 
 ## Introduction
-The Wazobia Real Estate Limited Predictive Modeling Project was an Hackathon! that was conducted by ZINDI but unfortunately i couldn't paricipate because i joined the Hackaton 24 hours to the end. So i took it as a challenge to work on it as a project. The primary objective of this project is to create a robust predictive model that can accurately estimate house prices in Nigeria. Our mission is to develop powerful predictive models that empower Wazobia Real Estate with the insights they need to make informed pricing decisions and excel in the competitive real estate market. 
+The Wazobia Real Estate Limited Predictive Modeling Project was an Hackathon! that was conducted by ZINDI but unfortunately I couldn't paricipate because i joined the Hackaton 24 hours to the end. So i took it as a challenge to work on it as a project. The primary objective of this project is to create a robust predictive model that can accurately estimate house prices in Nigeria. Our mission is to develop powerful predictive models that empower Wazobia Real Estate with the insights they need to make informed pricing decisions and excel in the competitive real estate market. 
 
 ### Objectives
 - Data Analysis: Delve into the dataset through comprehensive exploratory data analysis. Identify outliers, tackle missing values, and gain a deep understanding of the data's underlying characteristics.
@@ -69,7 +69,7 @@ You can access the complete dataset [HERE](https://zindi.africa/competitions/fre
 
 
 
-#### Features Importance
+### Features Importance
 
 - Top three important features: "title_rank," "loc_encoded," and "bedroom"
 
@@ -77,7 +77,7 @@ You can access the complete dataset [HERE](https://zindi.africa/competitions/fre
 
 - "comfort_ind," "parking_space," and "bathroom" have relatively lower importance scores.
 
-## 🔗 Links
+## Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alajede-mustapha-6071211a9/)
 
