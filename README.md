@@ -77,6 +77,11 @@ You can access the complete dataset [HERE](https://zindi.africa/competitions/fre
 
 - "comfort_ind," "parking_space," and "bathroom" have relatively lower importance scores.
 
+
+### Conclusion
+
+This project predicts house prices based on location, title, and amenities using the top-performing Cross-validated Catboost regressor model for a real estate company.  
+
 ## Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alajede-mustapha-6071211a9/)
