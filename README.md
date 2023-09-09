@@ -1,7 +1,7 @@
 # Wazobia-Real-Estate-Limited-House-Price-Prediction
 
 ## Introduction
-The Wazobia Real Estate Limited Predictive Modeling Project was an Hackathon! that was conducted by ZINDI but unfortunately I couldn't paricipate because i joined the Hackaton 24 hours to the end. So i took it as a challenge to work on it as a project. The primary objective of this project is to create a robust predictive model that can accurately estimate house prices in Nigeria. Our mission is to develop powerful predictive models that empower Wazobia Real Estate with the insights they need to make informed pricing decisions and excel in the competitive real estate market. 
+Real estate is a constantly changing market that is affected by a variety of factors leading to fluctuating prices. The aim of this project is to develop a predictive model that can assist Wazobia Real Estate Limited in Nigeria to determine the ideal pricing for properties based on certain features including location, title, number of bedrooms, bathrooms and parking spaces.
 
 ### Objectives
 - Data Analysis: Delve into the dataset through comprehensive exploratory data analysis. Identify outliers, tackle missing values, and gain a deep understanding of the data's underlying characteristics.
