@@ -18,7 +18,7 @@ Real estate is a constantly changing market that is affected by a variety of fac
 
 This dataset contains information on various features related to houses, including the number of bedrooms, bathrooms, parking spaces, property types, Locations and their corresponding prices. The goal of this project is to develop accurate predictive models that estimate house prices in Nigeria, providing valuable insights to Wazobia Real Estate Limited for informed decision-making and improved market competitiveness.
 
-### Data Summary
+### Data Information
 
 - Number of Entries: 14,000
 - Features: Bathroom, Bedroom, Parking Space, Property Location (loc), Property Type (title)
@@ -82,7 +82,7 @@ You can access the complete dataset [HERE](https://zindi.africa/competitions/fre
 
 This project predicts house prices based on location, title, and amenities using the top-performing Cross-validated Catboost regressor model for a real estate company.  
 
-## Links
+## Media Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alajede-mustapha-6071211a9/)
+[linkedin](https://www.linkedin.com/in/alajede-mustapha-6071211a9/)
 
