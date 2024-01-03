@@ -65,7 +65,7 @@ You can access the complete dataset [HERE](https://zindi.africa/competitions/fre
 
 ### Model Evaluation
 
-- Achieved a cross-validation RMSE score of 415,808.6 indicating prediction variance.
+- Achieved a cross-validation RMSE score of 415,808.60 indicating prediction variance.
 
 
 
